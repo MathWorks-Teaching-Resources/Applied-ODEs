@@ -69,19 +69,19 @@ MATLAB is used throughout, and tools from the Symbolic Math Toolbox™ are used 
 | <img src="Images/ChemicalConcentration.png" width="201" alt="ChemicalConcentration.png"> <br>  | **In this script, students will...** <br> $\bullet$ find integrating factors of linear, first\-order ordinary differential equations <br> $\bullet$ solve equations analytically by multiplying by integrating factors <br>  | **Applications** <br> $\bullet$ Chemical concentration <br> **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Chemistry <br>   |
 |      |      |       |
 
-## [**CharacteristicEquations.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/CharacteristicEquations.mlx)
+## **CharacteristicEquations.mlx** **(Planned)**
 |      |      |      |
 | :-: | :-- | :-- |
 | <img src="Images/Circuit.png" width="201" alt="Circuit.png"> <br>  | **In this script, students will...** <br> $\bullet$ find characteristic equations of linear, second\-order ordinary differential equations <br> $\bullet$ use the roots of characteristic equations to solve homogeneous equations analytically <br>  | **Applications** <br> $\bullet$ RLC Circuits <br> $\bullet$ Mass\-spring\-damper <br> **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Engineering <br> $\bullet$ Physics <br>   |
 |      |      |       |
 
-## [**UndeterminedCoefficients.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/UndeterminedCoefficients.mlx)
+## **UndeterminedCoefficients.mlx** **(Planned)**
 |      |      |      |
 | :-: | :-- | :-- |
 | <img src="Images/ChemicalBonds.png" width="202" alt="ChemicalBonds.png"> <br>  | **In this script, students will...** <br> $\bullet$ solve linear, second\-order, nonhomogeneous ordinary differential equations analytically using the method of undetermined coefficients <br>  | **Applications** <br> $\bullet$ Pendulum motion <br> $\bullet$ Chemical bonds <br> **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Physics <br> $\bullet$ Chemistry <br>   |
 |      |      |       |
 
-## [**SystemsOfODEs.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/SystemsOfODEs.mlx)
+## **SystemsOfODEs.mlx** **(Planned)**
 |      |      |      |
 | :-: | :-- | :-- |
 | <img src="Images/Earthquake.png" width="201" alt="Earthquake.png"> <br>  | **In this script, students will...** <br> $\bullet$ write systems of linear, homogeneous, first\-order differential equations in matrix form <br> $\bullet$ find eigenvalues and eigenvectors of these matrices <br> $\bullet$ solve systems of ODEs analytically using these eigenvalues and eigenvectors <br>  | **Applications** <br> $\bullet$ SIR model of epidemiology <br> $\bullet$ Earthquake effects on buildings <br> **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Biology <br> $\bullet$ Engineering <br>   |
