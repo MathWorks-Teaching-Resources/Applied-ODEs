@@ -49,7 +49,7 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 ## Products
 
-MATLAB is used throughout, and tools from the Symbolic Math Toolbox™ are used frequently as well.
+MATLAB is used throughout, and tools from the Symbolic Math Toolbox™ are used frequently as well. The Statistics and Machine Learning Toolbox™ is used for `range` in Charateristic Equations.
 
 # Scripts
 ## [**Classification.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/Classification.mlx)
