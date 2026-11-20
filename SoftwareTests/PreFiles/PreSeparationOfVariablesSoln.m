@@ -1,5 +1,6 @@
-%  Pre-run script for SeparationOfVariablesSoln.mlx
+%  Pre-run script for SeparationOfVariablesSoln.m
 % ---- Known Issues     -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
  
+% <matlab:ShareFeedback Share your feedback>

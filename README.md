@@ -3,13 +3,15 @@
 
 Learn how to classify ODEs, and methods of solution including separation of variables and integrating factors.
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/179214-applied-odes) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/179214-applied-odes) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=README.m)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Applied-ODEs/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Applied-ODEs)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FApplied-ODEs%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Applied-ODEs)
 
 **Curriculum Module**
 
-_Created with R2024b. Compatible with R2024b and later releases._
+_Created with R2026b. Compatible with R2025a and later releases._
+
+Users of MATLAB R2024b or older can download the [legacy MLX Live Scripts release](https://github.com/MathWorks-Teaching-Resources/Applied-ODEs/releases/tag/mlx).
 
 # Information
 
@@ -41,7 +43,7 @@ Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https:/
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [AppliedODEs.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=README.mlx). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [AppliedODEs.prj](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=README.m). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
 
 
 Ensure you have all the required products (listed below) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  <img src="Images/AddOnsIcon.png" width="16" alt="AddOnsIcon.png"> **Add-Ons** > **Get Add-Ons**. 
@@ -52,37 +54,37 @@ Ensure you have all the required products (listed below) installed. If you need 
 MATLAB is used throughout, and tools from the Symbolic Math Toolbox™ are used frequently as well. The Statistics and Machine Learning Toolbox™ is used for `range` in Charateristic Equations.
 
 # Scripts
-## [**Classification.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/Classification.mlx)
+## [**Classification.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/Classification.m)
 |      |      |      |
 | :-: | :-- | :-- |
 | <img src="Images/DerivativesGraph.png" width="201" alt="DerivativesGraph.png"> <br>  | **In this script, students will...** <br> $\bullet$ identify independent and dependent variables in differential equations <br> $\bullet$ distinguish between ordinary and partial differential equations <br> $\bullet$ classify differential equations by order, linearity, and homogeneity <br>  | **Academic disciplines** <br> $\bullet$ Mathematics <br>   |
 |      |      |       |
 
-## [**SeparationOfVariables.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/SeparationOfVariables.mlx)
+## [**SeparationOfVariables.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/SeparationOfVariables.m)
 |      |      |      |
 | :-: | :-- | :-- |
 | <img src="Images/PopulationGrowth.png" width="201" alt="PopulationGrowth.png"> <br>  | **In this script, students will...** <br> $\bullet$ determine whether ordinary differential equations are separable <br> $\bullet$ solve first\-order ordinary differential equations analytically using separation of variables  <br>  | **Applications** <br> $\bullet$ Logistic population growth model <br> **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Biology <br>   |
 |      |      |       |
 
-## [**IntegratingFactors.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/IntegratingFactors.mlx)
+## [**IntegratingFactors.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/IntegratingFactors.m)
 |      |      |      |
 | :-: | :-- | :-- |
 | <img src="Images/ChemicalConcentration.png" width="201" alt="ChemicalConcentration.png"> <br>  | **In this script, students will...** <br> $\bullet$ find integrating factors of linear, first\-order ordinary differential equations <br> $\bullet$ solve equations analytically by multiplying by integrating factors <br>  | **Applications** <br> $\bullet$ Chemical concentration <br> **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Chemistry <br>   |
 |      |      |       |
 
-## [**CharacteristicEquations.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/CharacteristicEquations.mlx) 
+## [**CharacteristicEquations.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/CharacteristicEquations.m) 
 |      |      |      |
 | :-: | :-- | :-- |
 | <img src="Images/Circuit.png" width="201" alt="Circuit.png"> <br>  | **In this script, students will...** <br> $\bullet$ find characteristic equations of linear, second\-order ordinary differential equations <br> $\bullet$ use the roots of characteristic equations to solve homogeneous equations analytically <br>  | **Applications** <br> $\bullet$ RLC Circuits <br> $\bullet$ Mass\-spring\-damper <br> **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Engineering <br> $\bullet$ Physics <br>   |
 |      |      |       |
 
-## [**UndeterminedCoefficients.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/UndeterminedCoefficients.mlx)
+## [**UndeterminedCoefficients.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/UndeterminedCoefficients.m)
 |      |      |      |
 | :-: | :-- | :-- |
 | <img src="Images/ChemicalBonds.png" width="202" alt="ChemicalBonds.png"> <br>  | **In this script, students will...** <br> $\bullet$ solve linear, second\-order, nonhomogeneous ordinary differential equations analytically using the method of undetermined coefficients <br>  | **Applications** <br> $\bullet$ Pendulum motion <br> $\bullet$ Chemical bonds <br> **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Physics <br> $\bullet$ Chemistry <br>   |
 |      |      |       |
 
-## [**SystemsOfODEs.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/SystemsOfODEs.mlx)
+## [**SystemsOfODEs.m**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-ODEs&project=AppliedODEs.prj&file=Scripts/SystemsOfODEs.m)
 |      |      |      |
 | :-: | :-- | :-- |
 | <img src="Images/Earthquake.png" width="201" alt="Earthquake.png"> <br>  | **In this script, students will...** <br> $\bullet$ write systems of linear, homogeneous, first\-order differential equations in matrix form <br> $\bullet$ find eigenvalues and eigenvectors of these matrices <br> $\bullet$ solve systems of ODEs analytically using these eigenvalues and eigenvectors <br>  | **Applications** <br> $\bullet$ SIR model of epidemiology <br> $\bullet$ Earthquake effects on buildings <br> **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Biology <br> $\bullet$ Engineering <br>   |
@@ -135,6 +137,6 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Applied-ODEs/blob/release/CONTRIBUTING.md) page on GitHub.
 
 
- *©* Copyright 2025 The MathWorks, Inc
+ *©* Copyright 2026 The MathWorks, Inc
 
 

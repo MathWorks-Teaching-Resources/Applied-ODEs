@@ -1,3 +1,4 @@
-%  Post-run script for SeparationOfVariablesSoln.mlx
+%  Post-run script for SeparationOfVariablesSoln.m
 % ---- Post-run commands -----
  
+% <matlab:ShareFeedback Share your feedback>

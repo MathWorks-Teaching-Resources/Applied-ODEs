@@ -1,3 +1,4 @@
-%  Post-run script for CharacteristicEquations.mlx
+%  Post-run script for CharacteristicEquations.m
 % ---- Post-run commands -----
  
+% <matlab:ShareFeedback Share your feedback>
